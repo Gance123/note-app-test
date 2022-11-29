@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: rgb(240, 240, 240);
+}
+
+.app-sidebar-note.active {
+  background-color: rgb(211, 211, 211);
+}
+
+.markdown {
+  padding: 0px 25px 25px 25px;
+  line-height: 2rem;
+}
